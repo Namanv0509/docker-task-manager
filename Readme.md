@@ -1,4 +1,4 @@
-## Docker Task Manager API
+# Docker Task Manager API
 
 Welcome to my Docker Task Manager API project! Diving into Go, Docker, and API development, and this is my attempt to build something cool that works like a "Windows Task Manager" for Docker containers. This project lets you list, start, stop, and monitor Docker containers, tracking their CPU and memory usage, all stored in a PostgreSQL database. It's been a fun (and sometimes challenging!) learning journey, and I hope this README helps you try it out or learn from it.
 
